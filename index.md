@@ -1,6 +1,6 @@
 ---
-title: At-a-gla
-notebook: Report-Homepage.ipynb
+title: Lending Club Loans
+notebook:
 nav_include: 1
 ---
 
