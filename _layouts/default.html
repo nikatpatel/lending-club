@@ -23,16 +23,13 @@
     <script src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
   </head>
   <body>
-    <h1>Lending Club Default Prediction</h1>
-    <p>
+    <center><h1>Lending Club Default Prediction</h1></center>
+    <p align="center">
     CS109a Summer 2018
     <br />Kenneth Brown | David Gil Garcaa | Nikat Patel
     </p>
     <div class="container-lg px-3 my-5 markdown-body">
       <nav class="group">
-        {% if site.title and site.title != page.title %}
-           <a href="{{ "/" | absolute_url }}">{{ site.title }}</a>
-        {% endif %}
         {% assign navigation_pages = site.html_pages | sort: 'nav_include' %}
         {% for node in navigation_pages %}
                 {% if node.nav_include %}
