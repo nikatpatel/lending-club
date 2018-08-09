@@ -1,0 +1,9 @@
+theme: jekyll-theme-primer
+title: Lending Club Defaults
+description: Detecting defaults of loans on Lending Club
+baseurl:
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  input: GFM
+  syntax_highlighter: rouge
