@@ -1,5 +1,5 @@
 theme: jekyll-theme-primer
-title: Lending Club Defaults
+title: Lending Club Loans
 description: Detecting defaults of loans on Lending Club
 baseurl:
 markdown: kramdown
