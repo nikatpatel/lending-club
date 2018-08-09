@@ -1,7 +1,7 @@
 ---
 title: Lending Club Loans
 notebook:
-nav_include: 1
+
 ---
 
 # lending-club
