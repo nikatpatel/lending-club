@@ -30,9 +30,7 @@
     </p>
     <div class="container-lg px-3 my-5 markdown-body">
       <nav class="group">
-        {% if site.title %}
-                <a href="{{ "/" | absolute_url }}">{{ site.title }}</a>
-        {% endif %}
+        <a href="{{ "/" | absolute_url }}">Lending Club Loans</a>
         {% assign navigation_pages = site.html_pages | sort: 'nav_include' %}
         {% for node in navigation_pages %}
                 {% if node.nav_include %}
