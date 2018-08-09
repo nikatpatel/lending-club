@@ -30,7 +30,7 @@
     </p>
     <div class="container-lg px-3 my-5 markdown-body">
       <nav class="group">
-        {% if site.title and site.title != page.title %}
+        {% if site.title %}
                 <a href="{{ "/" | absolute_url }}">{{ site.title }}</a>
         {% endif %}
         {% assign navigation_pages = site.html_pages | sort: 'nav_include' %}
