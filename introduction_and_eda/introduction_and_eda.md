@@ -1,5 +1,5 @@
 ---
-title: Introduction and EDA
+title: Exploratory Data Analysis
 notebook:
 nav_include: 2
 ---
