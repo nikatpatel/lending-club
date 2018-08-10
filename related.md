@@ -18,13 +18,13 @@ In "Weapons of Math Destruction" ONeil has a full chapter on inequality in the l
 
 Y. Jin and Y. Zhu, "A Data-Driven Approach to Predict Default Risk of Loan for Online Peer-to-Peer (P2P) Lending," 2015 Fifth International Conference on Communication Systems and Network Technologies, Gwalior, 2015, pp. 609-613.
 
-<a href="research/journal.pone.0139427">Download</a>
+<a href="research/journal.pone.0139427.PDF">Download</a>
 
 <br />
 
 Serrano-Cinca, Carlos & Gutiérrez-Nieto, Begoña. (2016). The use of profit scoring as an alternative to credit scoring systems in peer-to-peer (P2P) lending. Decision Support Systems. 89. 10.1016/j.dss.2016.06.014. 
 
-<a href="research/Profit_Scoring_P2P_DSS_SerrGut_2016">Download</a>
+<a href="research/Profit_Scoring_P2P_DSS_SerrGut_2016.pdf">Download</a>
 
 <br />
 
