@@ -33,14 +33,6 @@ from sklearn.ensemble import RandomForestClassifier
 
 ### Load, Visualize, and Clean Data
 
-
-```python
-target_col = "sub_grade"
-full_loan_stats = pd.read_csv('git_repo/s109/Lending Club Project/LoanStats3d.csv', skiprows=1, skipfooter=2, engine='python')
-loan_df = full_loan_stats.copy()
-```
-
-
 ```python
 loan_df.groupby(['loan_status']).agg({'loan_status': np.size})
 ```
