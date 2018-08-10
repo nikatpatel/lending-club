@@ -1261,8 +1261,6 @@ ax.set_title('OLS RFE Adjusted Gross Income $R^2$ Values', fontsize=18)
 ![png](output_64_1.png)
 
 
-#### Conclusion
-
-At this stage of the analysis we still can't confirm our discard our initial hypothesis (that we can build a model that assesses risk better than that of LC) but we feel confident that we can. 
+#### Results
 
 LC strongly bases their grading system on FICO, loan amount and term of the loan, which in turn does not make it too different from the traditional banking system. We would like to build a model based on more complex predictors that can give an oportunity to a wider group of population by identifiying "good borrowers" that may not have a perfect FICO score but will not default.
