@@ -1,6 +1,10 @@
+---
+title: Modeling and Predictions
+notebook:
+nav_include: 3
+---
 
 ### Libraries:
-
 
 ```python
 import numpy as np
