@@ -36,4 +36,4 @@ Baesens, Bart, et al. "Neural network survival analysis for personal loan data."
 
 ONeil, Cathy. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Crown, 2016.
 
-<a href="https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815">Amazon link</a>
+<a href="https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815">Amazon Link</a>
