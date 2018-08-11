@@ -39,7 +39,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 ```python
 target_col = "sub_grade"
-full_loan_stats = pd.read_csv('CS_109A/git_repo/s109/Lending Club Project/LoanStats3d.csv', skiprows=1, skipfooter=2, engine='python')
+full_loan_stats = pd.read_csv('CS_109A/Lending Club Project/LoanStats3d.csv', skiprows=1, skipfooter=2, engine='python')
 loan_df = full_loan_stats.copy()
 ```
 
